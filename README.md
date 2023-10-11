@@ -1,6 +1,6 @@
 # Spatial ecology in R ◾
 
- ## Student 👩‍🎓☣️🐚
+ ## Student 👩‍🎓🌳🐺🧬
  Gaia Benevenga
 
  ## Main scripts in this repo
